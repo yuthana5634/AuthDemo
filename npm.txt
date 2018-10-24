@@ -1,0 +1,16 @@
+npm init
+npm install ejs
+npm install express mongoose --save
+npm install passport passport-local --save
+npm install passport-local-mongoose --save
+npm install body-parser express-session --save
+
+
+
+//=================
+// GIT
+//=================
+git init
+git add .
+git commit -m "First commit"
+git remote add origin ...
